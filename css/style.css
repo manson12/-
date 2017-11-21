@@ -44,7 +44,7 @@ span,h1,h2,h3,h4,h5{ font-family:"Microsoft YaHei";}
 .playing .svg-pause{display:block;}
 .disc-name{width:47vw; position:absolute; left:50%; margin-left:-23.5vw; top:31vw; border-radius:50%; animation:circle linear infinite 20s; animation-play-state:paused;  -webkit-animation-play-state:paused;}
 .playing .light,.playing .disc-name{animation:circle linear infinite 20s; animation-play-state:running;  -webkit-animation-play-state:running; }
-.disc-description{text-align:center; flex-grow:1;}
+.disc-description{text-align:center; flex-grow:1; margin-top:5vw;}
 
 .song-title{font-size:18px; color:#fff;}
 .song-title span{font-size:16px; color:hsla(0,0%,100%,.6)}
